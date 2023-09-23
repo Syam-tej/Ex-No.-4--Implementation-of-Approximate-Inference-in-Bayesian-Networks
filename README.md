@@ -71,8 +71,9 @@ print(query_result)
 ![image](https://github.com/Syam-tej/Ex-No.-4--Implementation-of-Approximate-Inference-in-Bayesian-Networks/assets/93427224/7289204f-5197-4f21-b3b1-1202b87ab985)
 
 ## Result : 
-
+```
 Thus an approximate method of inference computation is implemented using Gibbs Smapling in Python. 
 (i) Specify the variable for which you want to calculate the approximate probabilities (query_variable).
 (ii)Use .value_counts(normalize=True) on the samples of the query_variable to calculate approximate probabilities.
 Step 7:Print Approximate Probabilities: (i) Print the calculated approximate probabilities for the specified query_variable.
+```
